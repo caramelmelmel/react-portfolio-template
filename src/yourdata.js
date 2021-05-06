@@ -179,14 +179,6 @@ export default {
       img: codepenIcon,
       url: "https://www.codepen.com/",
     },
-    {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
-    },
-    {
-      img: instagramIcon,
-      url: "https://www.instagram.com/",
-    },
   ],
 
   // End Contact Section ---------------
