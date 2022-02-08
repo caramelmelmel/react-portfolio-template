@@ -12,6 +12,9 @@ import codepenIcon from "./images/codepen.svg"
 import dribbbleIcon from "./images/dribbble.svg"
 import instagramIcon from "./images/instagram.svg"
 
+// about icon
+import aboutIcon from './images/mel_logo.png'
+
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
   //Change The Website Template
@@ -119,7 +122,7 @@ export default {
   aboutParaThree:
     "I love adventures and am willing explore and learn anything from anywhere and promote STEM to the community",
   aboutImage:
-    "https://images.unsplash.com/photo-1618800840233-33b676f8c5f4?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    aboutIcon,
 
   //   End About Section ---------------------
 
