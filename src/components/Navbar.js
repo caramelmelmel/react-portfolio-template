@@ -1,8 +1,8 @@
 import React from "react"
 import scrollTo from "gatsby-plugin-smoothscroll"
-const Navbar = () => {
+const Navigation = () => {
   return (
-    <div className="section">
+    <div className="nav">
       <div className="container">
         <div className="navbar-wrapper">
           <div
@@ -24,4 +24,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+export default Navigation
