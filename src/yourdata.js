@@ -15,12 +15,16 @@ import instagramIcon from "./images/instagram.svg"
 // about icon
 import aboutIcon from './images/mel_logo.png'
 
+//navbar
+import NavbarIcon from './images/mel_logo.png'
+
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
   //Change The Website Template
 
   //   Header Details ---------------------
   name: "Melody",
+  navIcon: NavbarIcon,
   headerTagline: [
     //Line 1 For Header
     "Building digital",
